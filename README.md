@@ -2,18 +2,6 @@
 
 #### ...::: Dad | Learner | Developer | Architect | Cloud | DevSecOps | Mentor | Co-Worker :::...</h3>
 
-# Articles
-
-["Life in the mob" (OTTO.de techblog)](https://www.otto.de/jobs/en/technology/techblog/blogpost/life-in-the-mob.php)
-
-["Rezeptvorschlag: FitNesse-Shake" (Javamagazin 10/2010, german only)](https://www.marcel-sauer.de/JavaMagazin_Final.pdf)
-
----
-
-![Marcel's GitHub stats](https://github-readme-stats.vercel.app/api?username=niesfisch&theme=react&show_icons=true&include_all_commits=true&count_private=true)
-
----
-
 ### Languages and Frameworks
 #### Fluent
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -96,6 +84,18 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
+
+## Articles
+
+["Life in the mob" (OTTO.de techblog)](https://www.otto.de/jobs/en/technology/techblog/blogpost/life-in-the-mob.php)
+
+["Rezeptvorschlag: FitNesse-Shake" (Javamagazin 10/2010, german only)](https://www.marcel-sauer.de/JavaMagazin_Final.pdf)
+
+---
+
+![Marcel's GitHub stats](https://github-readme-stats.vercel.app/api?username=niesfisch&theme=react&show_icons=true&include_all_commits=true&count_private=true)
+
+## Reach out
 
 [xing](https://www.xing.com/profile/Marcel_Sauer)
 
