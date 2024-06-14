@@ -89,7 +89,7 @@
 
 ["Life in the mob" (OTTO.de techblog)](https://www.otto.de/jobs/en/technology/techblog/blogpost/life-in-the-mob.php)
 
-["Rezeptvorschlag: FitNesse-Shake" (Javamagazin 10/2010, german only)](https://www.marcel-sauer.de/JavaMagazin_Final.pdf)
+["Rezeptvorschlag: FitNesse-Shake" (Javamagazin 10/2010, german only)](http://www.marcel-sauer.de/JavaMagazin_Final.pdf)
 
 ---
 
