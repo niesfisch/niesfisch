@@ -41,8 +41,4 @@ IntelliJ IDEA, PyCharm, Vim
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=niesfisch&theme=react&show_icons=true&include_all_commits=true&count_private=true)
-
----
-
-[LinkedIn](https://www.linkedin.com/in/marcelsauer/) · [Xing](https://www.xing.com/profile/Marcel_Sauer)
+[LinkedIn](https://www.linkedin.com/in/marcelsauer/)
