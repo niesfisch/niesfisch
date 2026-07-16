@@ -1,4 +1,4 @@
-# Marcel Sauer
+# Marcel
 
 Dad · Learner · Developer · Architect · Cloud · DevSecOps · Mentor
 
